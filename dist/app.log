@@ -1,0 +1,6 @@
+2025-02-14 22:11:59,754 - __main__ - INFO - Starting Graphic File Manager v1.0.0
+2025-02-14 22:11:59,960 - drag_and_drop - INFO - Drag and drop enabled for widget (without click handling)
+2025-02-14 22:12:03,618 - ui - INFO - No supported image files found
+2025-02-14 22:12:03,623 - ui - INFO - Starting UI main loop
+2025-02-14 22:12:11,365 - ui - INFO - Application closing
+2025-02-14 22:12:11,385 - __main__ - INFO - Application shutdown complete
